@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS NEWS
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/16394.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 1 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/4412.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 2 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/23358.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 3 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/189.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 4 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/266.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 5 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/267.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 6 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/268.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 7 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/269.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 8 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 9 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 10 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/18429.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 11 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/17088.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 12 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/17087.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 13 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/17086.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEINSPORTS 14 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/17085.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 15 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/23508.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 16 HD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/23507.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN NEWS  SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31928.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31927.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 1 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31926.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 2 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31925.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 3 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31924.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 4 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31923.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 5 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31922.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 6 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31921.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 7 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31920.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 8 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31919.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 9 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31918.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/13/00/19/copyright-free-31208_960_720.png" group-title="PD BEIN SPORT", BEIN SPORTS 10 SD
+http://ip.cs4ip.com:8000/live/41900808131509/41532890/31917.m3u8
