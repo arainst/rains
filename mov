@@ -101,34 +101,10 @@ http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Cinema 2
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Cinema 3
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Cinema 4
 http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Classics Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Classics Tamil
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Classics Telugu
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Comedy Telugu
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",DMC HD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Groovy
-http://bit.ly/2p6JqSo
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",iFILM English
@@ -145,18 +121,9 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",KTV
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
@@ -165,38 +132,13 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Drama
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Premium Marathi
@@ -211,18 +153,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies HD
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Sur Sagar TV
