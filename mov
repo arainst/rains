@@ -215,7 +215,12 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="wmovie",Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Cinema1
 http://cdng.pubcdn.tn/iptv/ch1663?code=1701341723961808
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Cinema2
