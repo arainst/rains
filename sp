@@ -135,17 +135,17 @@ https://172-105-122-8.nanostreaming.tech:8080/stream04/index.m3u8
 https://172-105-122-8.nanostreaming.tech:8080/stream05/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 6
 https://172-105-122-8.nanostreaming.tech:8080/stream06/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 7
 https://172-105-122-8.nanostreaming.tech:8080/stream08/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 9
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 8
 https://172-105-122-8.nanostreaming.tech:8080/stream09/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 9
 https://172-105-122-8.nanostreaming.tech:8080/stream10/index.m3u8
-#EXTINF-1 tvg-logo="" group-title="FEEDon", Fon 11
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 10
 https://www.espn.com/espn/rss/soccer/news
-#EXTINF-1 tvg-logo="" group-title="FEEDon", Fon 12
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 11
 https://www.theguardian.com/football/live/2020/mar/08/chelsea-v-everton-premier-league-live
-#EXTINF-1 tvg-logo="" group-title="FEEDon", Fon 13
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 12
 https://www.theguardian.com/football/live/2020/mar/08/chelsea-v-everton-premier-league-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Игра HD
@@ -189,56 +189,26 @@ http://myott.tv/stream/DWA143LBNVV/148.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",UFC ТВ HD
 http://myott.tv/stream/DWA143LBNVV/279.m3u8
 
-#EXTINF:-1 group-title="FEED", Feed 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 1
 https://172-105-122-8.nanostreaming.tech:8080/stream01/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 2
 https://172-105-122-8.nanostreaming.tech:8080/stream02/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 3
 https://172-105-122-8.nanostreaming.tech:8080/stream03/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 4
 https://172-105-122-8.nanostreaming.tech:8080/stream04/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 5
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 5
 https://172-105-122-8.nanostreaming.tech:8080/stream05/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 6
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 6
 https://172-105-122-8.nanostreaming.tech:8080/stream06/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 7
 https://172-105-122-8.nanostreaming.tech:8080/stream07/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 8
 https://172-105-122-8.nanostreaming.tech:8080/stream08/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 9
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 9
 https://172-105-122-8.nanostreaming.tech:8080/stream09/index.m3u8
-#EXTINF:-1 group-title="FEED", Feed 10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 10
 https://172-105-122-8.nanostreaming.tech:8080/stream10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62h2xDe.png" group-title="FEED OLAHRAGA", Doball 1
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62h2xDe.png" group-title="FEED OLAHRAGA", Doball 2
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62h2xDe.png" group-title="FEED OLAHRAGA", Doball 3
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 4
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 5
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 6
-http://stream.doball.com:8080/hls/ch6.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 7
-http://stream.doball.com:8080/hls/ch7.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 8
-http://stream.doball.com:8080/hls/ch8.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 9
-http://stream.doball.com:8080/hls/ch9.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 10
-http://stream.doball.com:8080/hls/ch10.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 11
-http://stream.doball.com:8080/hls/ch11.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 12
-http://stream.doball.com:8080/hls/ch12.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 13
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 14
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="FEED OLAHRAGA",Doball 15
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/198-1986527_olympic-games-clipart-international-olympic-olympic-channel-logo.png" group-title="FEED",OLYMPIC CHANNEL 1
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/198-1986527_olympic-games-clipart-international-olympic-olympic-channel-logo.png" group-title="FEED",OLYMPIC CHANNEL 2
