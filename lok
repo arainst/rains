@@ -31,20 +31,25 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804" group-title="NEWS",CNBC International http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
-#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="NEWS",Berita Satu http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804" group-title="NEWS",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="NEWS",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="NEWS",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="NEWS",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="NEWS",CNN International HD http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9RXRjHcIcAmEzJ6qAXUx0z9rIMDYNQG8FLodrDS-0waUTcuTT" group-title="NEWS",BBC World News http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
-#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/BTV.jpg" group-title="NEWS",Bloomberg International http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="NEWS",CNN International HD
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9RXRjHcIcAmEzJ6qAXUx0z9rIMDYNQG8FLodrDS-0waUTcuTT" group-title="NEWS",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
+#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/BTV.jpg" group-title="NEWS",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest/scale-to-width-down/340?cb=20100419120542" group-title="NEWS", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CBN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="NEWS",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/Al_Jazeera_English.png" group-title="NEWS",Aljazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
