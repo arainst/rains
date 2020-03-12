@@ -147,6 +147,16 @@ https://www.espn.com/espn/rss/soccer/news
 https://www.theguardian.com/football/live/2020/mar/08/chelsea-v-everton-premier-league-live
 #EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon", Fon 12
 https://www.theguardian.com/football/live/2020/mar/08/chelsea-v-everton-premier-league-live.m3u8
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 13
+http://188.35.9.9:2010
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 14
+http://188.35.9.9:2011
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 15
+http://188.35.9.9:2012
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 16
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 17
+http://188.35.9.10:2028
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Игра HD
 http://myott.tv/stream/DWA143LBNVV/188.m3u8
