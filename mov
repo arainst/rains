@@ -175,7 +175,6 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",CINNEMAX
@@ -214,215 +213,77 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="wmovie",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Cinema1
-http://cdng.pubcdn.tn/iptv/ch1663?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Cinema2
-http://cdng.pubcdn.tn/iptv/ch1664?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN SYFY
-http://cdng.pubcdn.tn/iptv/ch594?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN Movies Disne
-http://cdng.pubcdn.tn/iptv/ch595?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fox Movies HD
-http://cdng.pubcdn.tn/iptv/ch2205?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fox Crime Ar.
-http://cdng.pubcdn.tn/iptv/ch681?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fox Life Ar.
-http://cdng.pubcdn.tn/iptv/ch680?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fox Rewayat
-http://cdng.pubcdn.tn/iptv/ch1191?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Star World Ar.
-http://cdng.pubcdn.tn/iptv/ch1192?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Star Movies Ar.
-http://cdng.pubcdn.tn/iptv/ch1193?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Plus Drama
-http://cdng.pubcdn.tn/iptv/ch502?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fatafeat
-http://cdng.pubcdn.tn/iptv/ch5518?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC 1 HD
-http://cdng.pubcdn.tn/iptv/ch827?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC 2 HD
-http://cdng.pubcdn.tn/iptv/ch828?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC 3 HD
-http://cdng.pubcdn.tn/iptv/ch2200?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC 4 HD
-http://cdng.pubcdn.tn/iptv/ch829?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Iraq HD
-http://cdng.pubcdn.tn/iptv/ch1642?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Variety
-http://cdng.pubcdn.tn/iptv/ch1102?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Action HD
-http://cdng.pubcdn.tn/iptv/ch1109?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Max HD
-http://cdng.pubcdn.tn/iptv/ch2201?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Drama HD
-http://cdng.pubcdn.tn/iptv/ch2202?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",MBC Bollyood HD
-http://cdng.pubcdn.tn/iptv/ch347?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Film Box Art HD
-http://cdng.pubcdn.tn/iptv/ch8614?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Insight HD
-http://cdng.pubcdn.tn/iptv/ch8613?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",My Cinema HD
-http://cdng.pubcdn.tn/iptv/ch8611?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Woman HD
-http://cdng.pubcdn.tn/iptv/ch1101?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",BeIn Drama HD
-http://cdng.pubcdn.tn/iptv/ch8600?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",BeIn Series 1 HD
-http://cdng.pubcdn.tn/iptv/ch8601?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN ON DEMAND 1
-http://cdng.pubcdn.tn/iptv/ch900?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN ON DEMAND 2
-http://cdng.pubcdn.tn/iptv/ch901?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN ON DEMAND 3
-http://cdng.pubcdn.tn/iptv/ch902?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",OSN ON DEMAND 4
-http://cdng.pubcdn.tn/iptv/ch903?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",BeIn DreamWork HD
-http://cdng.pubcdn.tn/iptv/ch8606?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Jeem HD
-http://cdng.pubcdn.tn/iptv/ch5511?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Baraem HD
-http://cdng.pubcdn.tn/iptv/ch5510?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Gulli Arabia
-http://cdng.pubcdn.tn/iptv/ch348?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fix and Foxi
-http://cdng.pubcdn.tn/iptv/ch2209?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Nat. Geo. Wild Ar.
-http://cdng.pubcdn.tn/iptv/ch1190?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Nat. Geo. Ar.
-http://cdng.pubcdn.tn/iptv/ch1119?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Science Ar.
-http://cdng.pubcdn.tn/iptv/ch1103?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Trace Urban HD
-http://cdng.pubcdn.tn/iptv/ch8616?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Trace Sport HD
-http://cdng.pubcdn.tn/iptv/ch8617?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Tune Box HD
-http://cdng.pubcdn.tn/iptv/ch1105?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",NATGEO WILD HD Fr.
-http://cdng.pubcdn.tn/iptv/ch238?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Family HD Fr.
-http://cdng.pubcdn.tn/iptv/ch379?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Science HD Fr.
-http://cdng.pubcdn.tn/iptv/ch229?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Show Case Fr.
-http://cdng.pubcdn.tn/iptv/ch241?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery ID Fr.
-http://cdng.pubcdn.tn/iptv/ch249?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",RMC Decouverte
-http://cdng.pubcdn.tn/iptv/ch739?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Histoire
-http://cdng.pubcdn.tn/iptv/ch280?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",RMC Story
-http://cdng.pubcdn.tn/iptv/ch247?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Sky Action DE
-http://cdng.pubcdn.tn/iptv/ch411?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Sky Hits DE
-http://cdng.pubcdn.tn/iptv/ch1516?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",TNT Glitz DE
-http://cdng.pubcdn.tn/iptv/ch1522?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",TNT Series DE
-http://cdng.pubcdn.tn/iptv/ch1518?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Universal DE
-http://cdng.pubcdn.tn/iptv/ch1511?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Paramount Ch. IT
-http://cdng.pubcdn.tn/iptv/ch1902?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Dmax IT
-http://cdng.pubcdn.tn/iptv/ch1330?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Film DRAMA NL
-http://cdng.pubcdn.tn/iptv/ch1966?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Film 1 Family NL
-http://cdng.pubcdn.tn/iptv/ch890?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Film1 Action NL
-http://cdng.pubcdn.tn/iptv/ch877?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Film 1 premium NL
-http://cdng.pubcdn.tn/iptv/ch856?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Animal Planet NL
-http://cdng.pubcdn.tn/iptv/ch1873?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Channel NL
-http://cdng.pubcdn.tn/iptv/ch870?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery World NL
-http://cdng.pubcdn.tn/iptv/ch3456?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Science NL
-http://cdng.pubcdn.tn/iptv/ch3457?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Investigat
-http://cdng.pubcdn.tn/iptv/ch864?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery ID NL
-http://cdng.pubcdn.tn/iptv/ch1875?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",NatGeo NL
-http://cdng.pubcdn.tn/iptv/ch884?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Nat. Geo Wild NL
-http://cdng.pubcdn.tn/iptv/ch879?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery Science HD
-http://cdng.pubcdn.tn/iptv/ch2342?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Discovery HD TR
-http://cdng.pubcdn.tn/iptv/ch2343?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Nat. Geo. Wild TR
-http://cdng.pubcdn.tn/iptv/ch2357?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",BBC Earth TR
-http://cdng.pubcdn.tn/iptv/ch2392?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Animal Planet TR
-http://cdng.pubcdn.tn/iptv/ch2393?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",FX TR
-http://cdng.pubcdn.tn/iptv/ch2387?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",FOX Crime TR
-http://cdng.pubcdn.tn/iptv/ch2389?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 1
-http://htq.brasilia.me/iptv/ch300?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 2
-http://cdng.pubcdn.tn/iptv/ch301?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 3
-http://cdng.pubcdn.tn/iptv/ch302?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 4
-http://cdng.pubcdn.tn/iptv/ch303?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 5
-http://cdng.pubcdn.tn/iptv/ch304?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 6
-http://cdng.pubcdn.tn/iptv/ch305?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 7
-http://cdng.pubcdn.tn/iptv/ch306?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 8
-http://cdng.pubcdn.tn/iptv/ch307?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 9
-http://cdng.pubcdn.tn/iptv/ch308?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Fr Box Office 10
-http://cdng.pubcdn.tn/iptv/ch309?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice1
-http://htq.brasilia.me/iptv/ch310?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice2
-http://cdng.pubcdn.tn/iptv/ch311?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice3
-http://cdng.pubcdn.tn/iptv/ch312?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice4
-http://cdng.pubcdn.tn/iptv/ch313?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice6
-http://cdng.pubcdn.tn/iptv/ch315?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice7
-http://cdng.pubcdn.tn/iptv/ch316?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice8
-http://cdng.pubcdn.tn/iptv/ch317?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice9
-http://cdng.pubcdn.tn/iptv/ch318?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",Araboxoffice10
-http://cdng.pubcdn.tn/iptv/ch319?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 1
-http://htq.brasilia.me/iptv/ch320?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 2
-http://cdng.pubcdn.tn/iptv/ch321?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 3
-http://cdng.pubcdn.tn/iptv/ch322?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 4
-http://cdng.pubcdn.tn/iptv/ch323?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 5
-http://cdng.pubcdn.tn/iptv/ch324?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 6
-http://cdng.pubcdn.tn/iptv/ch325?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 7
-http://cdng.pubcdn.tn/iptv/ch326?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 8
-http://cdng.pubcdn.tn/iptv/ch327?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 9
-http://cdng.pubcdn.tn/iptv/ch328?code=1701341723961808
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85691.png" group-title="wmovie",US Box Office 10
-http://cdng.pubcdn.tn/iptv/ch329?code=1701341723961808
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Luna
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/122.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Cine
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/123.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Mex
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/124.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Fiesta
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/125.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Film
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/126.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Macho
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/127.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Clasico
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/128.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",Ultra Ultra Familia
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/129.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",INF TNT SERIES
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/307.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",JuanR usa outdoor
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/380.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",ANIMAL PLANET SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/434.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",AXN SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/436.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",CINEMAX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DISCOVERY CHANNEL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DISCOVERY SCIENCE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DISCOVERY THEATER SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/468.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DISCOVERY TURBO SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/470.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DISCOVERY WORLD SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/471.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",DW SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/476.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",E! SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/477.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",EL GOURMET SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/478.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX PREMIUM ACTION SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/490.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX PREMIUM CINEMA SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/491.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX PREMIUM CLASSICS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/492.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX PREMIUM MOVIES SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/493.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX PREMIUM SERIES SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/494.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FOX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/495.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",FXM SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",GALA TV SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/502.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",HAVOC SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/509.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",HBO 1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",HBO 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/511.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",HBO FAMILY
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",HBO SIGNATURE
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",INF | HISTORY
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie",INVESTIGATION DISCOVERY SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.m3u8
