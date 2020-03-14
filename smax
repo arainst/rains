@@ -1,161 +1,104 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",RMC Sport 1 HD
-http://vvn.neoredi.com/iptv/ch255?code=590138456678768&key=23296
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",RMC Sport 2 HD
-http://vvn.neoredi.com/iptv/ch253?code=590138456678768&key=54264
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",RMC Sport 3 HD
-http://vvn.neoredi.com/iptv/ch254?code=590138456678768&key=31480
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",RMC Sport 4 HD
-http://vvn.neoredi.com/iptv/ch243?code=590138456678768&key=15110
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 1 SD
-http://vvn.neoredi.com/iptv/ch8111?code=590138456678768&key=33281
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 2 SD
-http://vvn.neoredi.com/iptv/ch8112?code=590138456678768&key=12334
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 3 SD
-http://vvn.neoredi.com/iptv/ch8113?code=590138456678768&key=46519
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 4 SD
-http://vvn.neoredi.com/iptv/ch8114?code=590138456678768&key=40487
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 5 SD
-http://vvn.neoredi.com/iptv/ch8115?code=590138456678768&key=26611
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 6 SD
-http://vvn.neoredi.com/iptv/ch8116?code=590138456678768&key=29929
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 7 SD
-http://vvn.neoredi.com/iptv/ch8117?code=590138456678768&key=24135
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 8 SD
-http://vvn.neoredi.com/iptv/ch8118?code=590138456678768&key=39883
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 9 SD
-http://vvn.neoredi.com/iptv/ch8510?code=590138456678768&key=20158
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeInSport 10 SD
-http://vvn.neoredi.com/iptv/ch8511?code=590138456678768&key=15103
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",KSA SPORT 1
-http://vvn.neoredi.com/iptv/ch823?code=590138456678768&key=44583
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",KSA SPORT 2
-http://vvn.neoredi.com/iptv/ch824?code=590138456678768&key=38478
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",KSA SPORT +1
-http://vvn.neoredi.com/iptv/ch825?code=590138456678768&key=17779
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",KSA SPORT +2
-http://vvn.neoredi.com/iptv/ch826?code=590138456678768&key=42093
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",AD Sport 1 HD
-http://vvn.neoredi.com/iptv/ch122?code=590138456678768&key=21973
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",AD Sport 2 HD
-http://vvn.neoredi.com/iptv/ch603?code=590138456678768&key=53427
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",AD Sport 3 HD
-http://vvn.neoredi.com/iptv/ch5519?code=590138456678768&key=18357
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",AD Sport 4 HD
-http://vvn.neoredi.com/iptv/ch5520?code=590138456678768&key=41241
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Nile Sport
-http://vvn.neoredi.com/iptv/ch183?code=590138456678768&key=23703
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BT Sport 1
-http://vvn.neoredi.com/iptv/ch1828?code=590138456678768&key=45498
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BT Sport 2
-http://vvn.neoredi.com/iptv/ch1829?code=590138456678768&key=57494
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BT Sport 3
-http://vvn.neoredi.com/iptv/ch1830?code=590138456678768&key=30373
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Rai Sport 1 IT
-http://vvn.neoredi.com/iptv/ch1315?code=590138456678768&key=56931
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport Italia IT
-http://vvn.neoredi.com/iptv/ch1933?code=590138456678768&key=32845
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eleven Sport 1 Cy
-http://vvn.neoredi.com/iptv/ch6520?code=590138456678768&key=28928
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eleven Sport 2 Cy
-http://vvn.neoredi.com/iptv/ch6521?code=590138456678768&key=45470
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eleven Sport 3 Cy
-http://vvn.neoredi.com/iptv/ch6522?code=590138456678768&key=35335
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eleven Sport 4 Cy
-http://vvn.neoredi.com/iptv/ch6523?code=590138456678768&key=23500
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Canal+ Sport Cy
-http://vvn.neoredi.com/iptv/ch4527?code=590138456678768&key=39502
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Canal+ Sport 2 Cy
-http://vvn.neoredi.com/iptv/ch6528?code=590138456678768&key=64382
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",M.L. Campeones HD SP
-http://vvn.neoredi.com/iptv/ch1281?code=590138456678768&key=32884
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Bein Sport SPANA
-http://vvn.neoredi.com/iptv/ch1220?code=590138456678768&key=25450
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Movistar LaLiga 1 HD
-http://vvn.neoredi.com/iptv/ch1224?code=590138456678768&key=17683
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=590138456678768&key=12157
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=590138456678768&key=54617
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=590138456678768&key=24582
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=590138456678768&key=38701
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",ESPN2 HD
-http://vvn.neoredi.com/iptv/ch3512?code=590138456678768&key=16615
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",ESPN HD
-http://vvn.neoredi.com/iptv/ch3511?code=590138456678768&key=54244
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Ziggo NL
-http://vvn.neoredi.com/iptv/ch3586?code=590138456678768&key=35409
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Ziggo Sport Voetball
-http://vvn.neoredi.com/iptv/ch878?code=590138456678768&key=53667
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Ziggo Sport Extra
-http://vvn.neoredi.com/iptv/ch1867?code=590138456678768&key=50232
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Ziggo Sport Select
-http://vvn.neoredi.com/iptv/ch860?code=590138456678768&key=24851
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eurosport 1 NL
-http://vvn.neoredi.com/iptv/ch1969?code=590138456678768&key=38198
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Eurosport 2 NL
-http://vvn.neoredi.com/iptv/ch3549?code=590138456678768&key=17867
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport TV 1 PT
-http://vvn.neoredi.com/iptv/ch2123?code=590138456678768&key=48317
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport TV 2 PT
-http://vvn.neoredi.com/iptv/ch2124?code=590138456678768&key=23461
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport TV 3 PT
-http://vvn.neoredi.com/iptv/ch2125?code=590138456678768&key=54310
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport TV 4 PT
-http://vvn.neoredi.com/iptv/ch2126?code=590138456678768&key=18673
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sport TV 5 PT
-http://vvn.neoredi.com/iptv/ch2127?code=590138456678768&key=49822
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeinSport Max 1
-http://vvn.neoredi.com/iptv/ch2358?code=590138456678768&key=41059
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",BeinSport Max 2
-http://vvn.neoredi.com/iptv/ch2359?code=590138456678768&key=29388
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Tivibu Sport 1
-http://vvn.neoredi.com/iptv/ch2361?code=590138456678768&key=18337
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Tivibu Sport 2
-http://vvn.neoredi.com/iptv/ch2362?code=590138456678768&key=10226
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Tivibu Sport 3
-http://vvn.neoredi.com/iptv/ch1356?code=590138456678768&key=18724
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",SKY Sport Football UK
-http://vvn.neoredi.com/iptv/ch922?code=1501309316704233&key=22520
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Sky Sport Premium UK
-http://vvn.neoredi.com/iptv/ch937?code=1501309316704233&key=57619
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=8601338691674826&key=50917
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | ESPN +
-http://futuretvplus.com:25461/alfred/alfred/133
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | ESPN 1
-http://futuretvplus.com:25461/alfred/alfred/134
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | ESPN 2
-http://futuretvplus.com:25461/alfred/alfred/135
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | ESPN 3
-http://futuretvplus.com:25461/alfred/alfred/136
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | TNT
-http://futuretvplus.com:25461/alfred/alfred/163
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",MX | TNT Series
-http://futuretvplus.com:25461/alfred/alfred/164
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",USA | FOX Soccer Plus
-http://futuretvplus.com:25461/alfred/alfred/81
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",USA | TNT
-http://futuretvplus.com:25461/alfred/alfred/28
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",USA | NBC Universo
-http://futuretvplus.com:25461/alfred/alfred/31
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",USA | NBC NY
-http://futuretvplus.com:25461/alfred/alfred/36
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",USA | PIX 11 NY
-http://futuretvplus.com:25461/alfred/alfred/37
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",Bein Sports Ñ
-http://futuretvplus.com:25461/alfred/alfred/38
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",CCTV-5
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",CCTV-5
-http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",CCTV-5+
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",CCTV-5+HD
-http://223.82.250.72/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP2",ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Premier Football HD 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Premier Football HD 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Premier Football HD 3
+https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Premier Football HD 4
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Premier Football HD 5
+https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT HD
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 1
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 2
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 3
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 4
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 5
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SKYNET SPORT 6
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",WWE TV
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports News
+http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 1 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 2 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 3 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 4 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 5 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 6 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 7 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 8 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 9 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 10 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 11 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 12 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 1 Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 2 Action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 4 Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Liga Indonesia 2
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Uefa Badminton
+https://dl.dropbox.com/s/mpur8w7g4kevynb/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Uefa Badminton2
+https://dl.dropbox.com/s/htevkp913kj40de/badminton2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",NBCSN SPORT SD
+https://dl.dropbox.com/s/w3lst03ueo96mpi/beinss1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",NBCSN SPORT HD
+https://dl.dropbox.com/s/hvdg5matjnqd9fx/beinsspd.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: TNT SPORT
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58036
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58037
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS 2
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58038
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS PLUS
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58039
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58040
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN 2
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58041
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN 3
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58042
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN+
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58043
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 4
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58446
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 5
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58447
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 6
+http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58448
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR usa FS2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/401.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR USA FS1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/402.m3u8
