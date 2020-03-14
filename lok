@@ -15,12 +15,11 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="NASIONAL", TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="NASIONAL",Trans 7
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="NASIONAL",I - NEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="NASIONAL",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-*ttps://anevia114.mncnow.id:443/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+https://anevia114.mncnow.id:443/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="NASIONAL",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NASIONAL",Kompas TV
@@ -76,22 +75,8 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XWRP1EECW9lR7AEtjzsHnDlbHWNWRzbIVzg=s900-c-k-c0xffffffff-no-rj-mo" group-title="DAERAH",Jawapos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="DAERAH", Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-250px.png" group-title="DAERAH", TV Desa
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-#EXTINF -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/Gemilang-TV-250x141px.jpg" group-title="DAERAH", Gemilang TV
-http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-1-250px.png" group-title="DAERAH", Arek TV Surabaya
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-RCTV-logo-250px.png" group-title="DAERAH", RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/assets/companies/images/logo/jambi-televisi-pt_fb.png" group-title="DAERAH", Jambi TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/PalTV_Palembang-250px.png" group-title="DAERAH", Pal TV
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-BETV-logo-250px.png" group-title="DAERAH", Be TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/43/43753.png" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
