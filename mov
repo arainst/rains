@@ -41,14 +41,9 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Indonesia Movie
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",CINEMA World
-http://45.126.83.51/session/ae23ef80-019e-11ea-acf6-a445af550c11/uq2663/h/h04/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",HBO Hit
@@ -159,8 +154,6 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Комедийное
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Остросюжетное HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOVIES",Рен ТВ HD
