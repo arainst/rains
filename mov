@@ -207,7 +207,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
+#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="wmovie", CinemaWorld
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="wmovie", MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
