@@ -210,8 +210,29 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="wmovie", CinemaWorld
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="wmovie", MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="wmovie", MBC Action HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="wmovie", MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="wmovie", Pluto TV Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="J STREAM 2", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="wmovie", RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="wmovie", Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie", Top TV
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie", Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie", WOWOWシネマ
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="wmovie", Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="wmovie",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="wmovie",Blush Romance TV
