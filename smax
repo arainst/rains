@@ -28,32 +28,6 @@ http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",WWE TV
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports News
-http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 2 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 3 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 4 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 5 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 6 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 7 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 8 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 9 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 10 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 11 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Bein Sports 12 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 1 Main Event
@@ -92,13 +66,112 @@ http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58041
 http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58042
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN+
 http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58043
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 4
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58446
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 5
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58447
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",LATIN: ESPN 6
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/58448
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR usa FS2
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/401.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR USA FS1
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/402.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sport 1
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sport 2
+https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sport 3
+https://delivery.macan.live/stream/id_foxsport3/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Fight Sport
+https://delivery.macan.live/stream/fightsport/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",ZALOGI Special Sport 1
+https://delivery.macan.live/stream/macan_event_1/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",#1
+https://delivery.macan.live/stream/macan_event_2/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",#2
+https://delivery.macan.live/stream/macan_event_3/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",#3
+https://delivery.macan.live/stream/macan_event_4/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",#4
+https://delivery.macan.live/stream/macan_event_5/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",beIN Sports 1 ID
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",beIN Sports 2 ID
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",NBCSN
+https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",NBC Golf
+https://delivery.macan.live/stream/nbc_golf/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",eGG Network
+https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Arena
+https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Supersport 1
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Supersport 2
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Supersport 3
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Supersport 4
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Cricket
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Setanta
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Eurosport
+https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro WWE Network
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",beIN Sports Malaysia
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",beIN Sports MAX
+https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Sport Special 2
+https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Sport Special 3
+https://delivery.macan.live/stream/macan_sport_19/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",Astro Sport Special 4
+https://delivery.macan.live/stream/macan_sport_20/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sports 1 Malaysia
+https://delivery.macan.live/stream/macan_sport_21/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sports 2 Malaysia
+https://delivery.macan.live/stream/macan_sport_22/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",FOX Sports 3 Malaysia
+https://delivery.macan.live/stream/macan_sport_23/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 1
+https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 2
+https://delivery.macan.live/stream/macan_sport_25/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 3
+https://delivery.macan.live/stream/macan_sport_26/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 4
+https://delivery.macan.live/stream/macan_sport_27/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 5
+https://delivery.macan.live/stream/macan_sport_28/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 6
+https://delivery.macan.live/stream/macan_sport_29/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 7
+https://delivery.macan.live/stream/macan_sport_30/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 8
+https://delivery.macan.live/stream/macan_sport_31/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 9
+https://delivery.macan.live/stream/macan_sport_32/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 10
+https://delivery.macan.live/stream/macan_sport_33/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 11
+https://delivery.macan.live/stream/macan_sport_34/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",AF Supersport 12
+https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",RUSH Special
+https://delivery.macan.live/stream/macan_sport_36/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",RUSH 1
+https://delivery.macan.live/stream/macan_sport_37/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",RUSH 2
+https://delivery.macan.live/stream/macan_sport_38/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",RUSH 3
+https://delivery.macan.live/stream/macan_sport_39/index.m3u8?token=rpHuR43M&v=20200308
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="AUM",RUSH 4
+https://delivery.macan.live/stream/macan_sport_40/index.m3u8?token=rpHuR43M&v=20200308
