@@ -48,6 +48,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",CCTV5+ HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="EPL",SKYNET1
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="EPL",SKYNET2
@@ -105,47 +107,6 @@ http://188.35.9.9:2012
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEEDon",Fon 17
 http://188.35.9.10:2028
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Игра HD
-http://myott.tv/stream/DWA143LBNVV/188.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! СТРАНА http://myott.tv/stream/DWA143LBNVV/143.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Арена HD
-http://myott.tv/stream/DWA143LBNVV/163.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! ТВ HD
-http://myott.tv/stream/DWA143LBNVV/169.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Боец
-http://myott.tv/stream/DWA143LBNVV/112.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Футбол 1 HD
-http://myott.tv/stream/DWA143LBNVV/130.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Футбол 2 HD
-http://myott.tv/stream/DWA143LBNVV/142.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Футбол 3 HD http://myott.tv/stream/DWA143LBNVV/185.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Матч! Премьер HD
-http://myott.tv/stream/DWA143LBNVV/193.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Футбол 1 HD Украина
-http://myott.tv/stream/DWA143LBNVV/159.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Футбол 2 HD Украина
-http://myott.tv/stream/DWA143LBNVV/191.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Футбол 3 HD Украина
-http://myott.tv/stream/DWA143LBNVV/297.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Беларусь 5 HD http://myott.tv/stream/DWA143LBNVV/33.m3u8 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Бокс ТВ
-http://myott.tv/stream/DWA143LBNVV/154.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",КХЛ ТВ
-http://myott.tv/stream/DWA143LBNVV/166.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",КХЛ HD
-http://myott.tv/stream/DWA143LBNVV/178.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Русский экстрим HD
-http://myott.tv/stream/DWA143LBNVV/285.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Моторспорт ТВ HD
-http://myott.tv/stream/DWA143LBNVV/300.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Viasat Sport Россия
-http://myott.tv/stream/DWA143LBNVV/102.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Qazsport
-http://myott.tv/stream/DWA143LBNVV/72.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",Extreme Sports
-http://myott.tv/stream/DWA143LBNVV/148.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="EPL",UFC ТВ HD
-http://myott.tv/stream/DWA143LBNVV/279.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED", Feed 1
 https://172-105-122-8.nanostreaming.tech:8080/stream01/index.m3u8
