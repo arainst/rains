@@ -22,39 +22,6 @@ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="NASIONAL",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",RCTI
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",Trans 7
-http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",GTV
-http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",Trans TV
-http://202.80.222.145/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",RCTI
-http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",MNC
-http://202.80.222.182:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",GLOBAL TV
-http://202.80.222.169:80/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",I News
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",NET
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",SCTV
-http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",METRO TV 2
-http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",RAJAWALI TV 2
-http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",iNews
-http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",TVONE
-http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/34/34684.png.png" group-title="lok202",Kompas TV
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
