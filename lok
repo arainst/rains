@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="USEETV GO",INDOSIAR
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="NASIONAL",ANTV 
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RCTI-250px.jpg" group-title="NASIONAL",RCTI+
@@ -7,7 +9,7 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MNCTV-01-250px.jpg" group-title="NASIONAL",MNC
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="NASIONAL",SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=rpHuR43M&v=20200308
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="NASIONAL",Global TV
@@ -77,49 +79,6 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-1-250px.png" group-title="DAERAH", Arek TV Surabaya
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV1
-http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=481661885de313531cfe8121895919fa
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV2
-http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a488863e9e3fd91edbe4791c44ca6f39
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV3
-http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a03658210d90477bf0ca1eedfc622c15
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV9
-http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=64310c306391f383db1e91f2d034baf7
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",OKEY
-http://50.7.161.82:8278/Okey/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a4c93a25103dac7934abd1a455a78122
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV3
-http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a03658210d90477bf0ca1eedfc622c15
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV3 (backup)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",ASTRO MOVIE
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",DRAMA SANGAT
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",AWANI
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",TV IKIM
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Astro Awani
-http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Astro Ceria
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Astro Naura
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Colors
-http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33220.png" group-title="MALAY",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/43/43753.png" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
