@@ -1,37 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", MOVISTAR DEPORTES
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/8706
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", MOVISTAR LIGA DE CAMPEONES
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/495
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", MOVISTAR LA LIGA
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/1287
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", DIRECTV SPORTS +
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/475
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", TNT SPORTS
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/459
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN ARG
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/452
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN 2 ARG
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/8857
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN 3 ARG
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/8858
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN ARG
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/401
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN +
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/419
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN BRASIL
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/812
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", ESPN EXTRA
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/813
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", FOX SPORTS BRASIL
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/815
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", BEIN SPORTS
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/8707
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", CDF
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/430
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP", CDF PREMIUM
-http://uruguayiptv.com:25461/ricardovieras/RiWaVi99VM/407
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Lao Champa TV
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Usee Sport
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Fox Sport 2
+https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Fox Sport 3
+https://dl.dropbox.com/s/ztboeg6qqbe4fni/foxsport3.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Golf+
+https://dl.dropbox.com/s/2baf588i4imy0ux/golf.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",NBA
+https://dl.dropbox.com/s/q7305cobr99toiy/nba.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Useesport
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",True Premiere Football1 HD
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",True Premiere Football2 HD
@@ -96,10 +80,6 @@ http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK Sky Sports Football
 http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK BT Sport 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK BT Sport 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Bundesliga
 http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK Euro Sport 1
@@ -108,18 +88,12 @@ http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK LFC TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Edge Sports
 http://160.119.77.50/iptv/hd-edge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SETANTA
 http://160.119.77.50/iptv/hd-setanta.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ESPN
 http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK Premier Sports
-http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK Racing
 http://160.119.77.50/iptv/uk-racing.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",UK attheraces
@@ -128,12 +102,6 @@ http://160.119.77.50/iptv/uk-attheraces.stream/playlist.m3u8
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 1 Main Event
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 2 Action
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Sky Sports 4 Football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Liga Indonesia
 https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",Uefa Badminton
@@ -146,26 +114,6 @@ https://dl.dropbox.com/s/w3lst03ueo96mpi/beinss1.m3u8?dl=0
 https://dl.dropbox.com/s/hvdg5matjnqd9fx/beinsspd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: TNT SPORT
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58036
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58037
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS 2
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58038
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: DIRECT TV SPORTS PLUS
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58039
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58040
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN 2
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58041
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN 3
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58042
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",ARGENTINA: ESPN+
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58043
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR usa FS2
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/401.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="SP",JuanR USA FS1
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/402.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/33/33736.png" group-title="FD",Cannel HD1
 https://sportzonline.co/channels/hd/hd1.php
