@@ -75,32 +75,34 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28774.ts?token=HhVYAkpZQF8XAARfA1
 http://62.210.127.17:8080/live/gxfgss/HHVVPP/18549.ts?token=HhVYAkpZQF8XU1oJAw4PVQEMAwVSDQICXABZAgJVBFcAVQFUCgMHVwcTThtFQ0pVUlk6X1QaWVBdBwxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClUCUwVVUBsSE1BVQF8XAlMAAAcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEDFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwIBDwARSQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MOVIE",TVN MOVIES
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28738.ts?token=HhVYAkpZQF8XA1oKBlRaUVBSUgMFDlJZXAFdVAQHAgJXDlZRXwFSBwYTThtFQ0pVUlk6X1QaWVNdBQtbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClUCUwRTXRsSE1BVQF8XBFEOBRUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCQIRGEdVX00NFRdLGlkVKG9DSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACwAPCwURSQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",FX HD
-http://host4.dynns.com/stream/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",KIX HD
-http://host4.dynns.com/stream/e584e0adae6440eab366f5fe3a824f91.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Thrill
-http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Celestial Classic Movies (CCM)
-http://host4.dynns.com/stream/1c2276a2f1884b269ce281c3334e8f85.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Life HD
-http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Comedy Central HD
-http://host4.dynns.com/stream/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Crime HD (EN)
-http://host4.dynns.com/stream/48773319e9324602b258e3f1d33ec111.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Crime HD (TH)
-http://host4.dynns.com/stream/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Action Movies HD (TH)
-http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Action Movies HD (EN)
-http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Thai (TH)
-http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox Thai (EN)
-http://host4.dynns.com/stream/d0bfb50bee3741a09c53f8099a64ad52.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MV",Fox life
-http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Bioskop Indonesia
+https://dl.dropbox.com/s/fqmxl2idfuvi4jz/bioskopindonesia.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Flik
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Galaxy
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Oh!K
+https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",SBS IN
+https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Waku Waku Japan
+https://dl.dropbox.com/s/r8aqjaqzn8vjufp/wakuwaku.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Warner
+https://dl.dropbox.com/s/lu9vbxu98sxnrhr/warner.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Dreamworks
+https://dl.dropbox.com/s/9m8llnou1kokigs/dreamworks.m3u8?dl=0
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MV",DW (English)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOV",WOW MOVIES
@@ -213,3 +215,113 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MOV",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",JET LE
+https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",ANDY LAU
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",SAMO HUNG
+https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",CHOW YUN FAT TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",YANG MI
+https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",WU JING
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MR VAMPIRE
+https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",HAPPY GHOST
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MOVIE EXTRA 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MOVIE EXTRA 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MOVIE EXTRA 4
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",DONNIE YEN
+http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",LAM CHING-YING
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",WONG JING
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",JAPAN HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",THAI GHOST MOVIE
+https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",WEST HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",FUNNY MOVIE
+https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",SUNG GO KONG
+https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",JIGONG CRAZY MONK
+https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",FIVE LUCKY STAR
+https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",SUPER CLASSIC MOVIE
+https://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",KUNGFU SERIAL 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",KUNGFU SERIAL 2
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",POLICE MOVIE
+https://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",RUNNING MAN
+https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",DWAYNE JOHNSON
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",DC COMIC
+https://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MARVEL SUPERHEROES
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",THRILLER BLOCKBUSTER
+https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",WEST MOVIE
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",CINESTAR PREMIERE 1
+http://cableserver1.cableguy.pro:82/live?cId=503&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",CINESTAR PREMIERE 2
+http://cableserver1.cableguy.pro:82/live?cId=504&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",FILMBOX PLUS
+http://cableserver1.cableguy.pro:82/live?cId=431&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",EPIC DRAMA
+http://cableserver1.cableguy.pro:82/live?cId=466&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",MAX 2
+http://cableserver1.cableguy.pro:82/live?cId=476&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 1
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 2
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 5
+https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 6
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 7
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 8
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 9
+https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 10
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 12
+https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 13
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 14
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 15
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 16
+https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 17
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="MSTREAM",Movies 18
+https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
