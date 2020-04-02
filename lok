@@ -4,9 +4,7 @@
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="NASIONAL",ANTV 
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RCTI-250px.jpg" group-title="NASIONAL",RCTI 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RCTI-250px.jpg" group-title="NASIONAL",RCTI 2
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RCTI-250px.jpg" group-title="NASIONAL",RCTI
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MNCTV-01-250px.jpg" group-title="NASIONAL",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
@@ -16,8 +14,6 @@ https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="NASIONAL",Global TV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="NASIONAL",Global TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="NASIONAL", TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="NASIONAL",Trans 7
