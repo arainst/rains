@@ -36,8 +36,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://dl.dropbox.com/s/21hoi90a81le4iz/inewshooq.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="NEWS",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="NEWS",Jakarta Globe News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="NEWS",CNN International HD
@@ -103,40 +101,6 @@ https://rt-usa.secure.footprint.net/1105.m3u8
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="WORLDNEWS",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK BBC One
-http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK BBC Three
-http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK BBC Four
-http://160.119.77.50/iptv/uk-bbc4hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK BBC News
-http://160.119.77.50/iptv/uk-bbcnewshd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK BBC World News
-http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK Sky News
-http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK Fox News
-http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",CNBC
-http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",NHK World
-http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",NHK Premium
-http://160.119.77.50/iptv/sd-nhkpremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",UK Aljazeera
-http://160.119.77.50/iptv/uk-aljazeera.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Phoenix Info News
-http://160.119.77.50/iptv/sd-phoenixinfonews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Bloomberg News
-http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Channel News Asia
-http://160.119.77.50/iptv/sd-channelnewsasia.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Arirang
-http://160.119.77.50/iptv/sd-arirang.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",TV5MONDE
-http://160.119.77.50/iptv/fr-tv5pacific.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",SME
-http://160.119.77.50/iptv/sd-sme.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040378.png" group-title="DAERAH",HIDUP TV
@@ -149,10 +113,6 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040386.jpg" group-title="DAERAH",TEGAR TV
 http://wms.klikhost.com/tegartv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040331.jpg" group-title="DAERAH",THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040388.png" group-title="DAERAH",TV9 NSPORTANTARA
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" group-title="DAERAH",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="DAERAH",TVKU
@@ -352,8 +312,6 @@ https://livetvhooq.akamaized.net/e65856f8b215401fb45a5f4c49a50d9a/ap-southeast-1
 https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581829609~exp=9007200836570600~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=f28dfacfb743a4ca56dfd6541621b4adab2b1c81500d594fb652b645ace975ab
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE", Dunia Games Channel
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",EGG Network
-http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",MAXSTREAM MCC
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(26cc3a6a-8726-40cd-a02f-ac6db7a85fe5)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",TLC
@@ -361,15 +319,11 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Fashion TV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Waku Waku Japan
 http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",OCEAN TV
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Duta TV
 https://video2.onlivestreaming.net/dutatelevisi/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/59/59078.png" group-title="SCIENCE & LIFESTYLE",Love Nature
