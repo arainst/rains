@@ -1,21 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="NASIONAL",INDOSIAR
-https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
+https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="NASIONAL",ANTV 
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
+https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1883490665_b894100_sleng_108332.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RCTI-250px.jpg" group-title="NASIONAL",RCTI
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MNCTV-01-250px.jpg" group-title="NASIONAL",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="NASIONAL",SCTV
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
+https://cdnmdc1.useetv.com/joss/15/sctv/chunklist_w1626501149_b1344100_sleng_108307.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="NASIONAL",Global TV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="NASIONAL", TRANS TV
-https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w582693061_b1344100_sleng.m3u8
+https://cdnbdsa1.useetv.com/joss/15/transtv/chunklist_w1034088746_b1344100_sleng_108332.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="NASIONAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1852291058_b684100_sleng.m3u8
