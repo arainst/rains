@@ -1,6 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXTINF:1,
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136241.ts
 
 #http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1835438.m3u8
