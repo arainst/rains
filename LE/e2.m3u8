@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=993336&extension=ts&play_token=u6gl514O7x
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=993336&extension=m3u8&play_token=u6gl514O7x
 
 #http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1835437.m3u8
